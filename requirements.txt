@@ -3,5 +3,6 @@ Flask-Login==0.6.1
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.4.4
 itsdangerous==2.0.1
+Werkzeug==0.16.1
 onecomic>=0.1.16
 Jinja2<3.1
